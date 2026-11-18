@@ -59,6 +59,7 @@ export default function Home() {
               "https://em-content.zobj.net/source/telegram/358/hourglass-done_231b.webp"
             }
             alt={"Sablier animé"}
+            unoptimized
           />
         </h1>
         <p className="mx-auto mt-6 max-w-3xl text-center text-lg leading-relaxed text-pretty text-muted-foreground sm:text-xl lg:text-2xl">
@@ -81,6 +82,7 @@ export default function Home() {
             alt={"Main qui dit bonjour"}
             width={50}
             height={50}
+            unoptimized
           />
           <br />
           En 10 minutes, explorons les <b>bases essentielles</b> pour comprendre

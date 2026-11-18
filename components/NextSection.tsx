@@ -28,6 +28,7 @@ const NextSection = ({
           alt={"Doigt qui pointe en bas"}
           width={20}
           height={20}
+          unoptimized
         />
       </LinkButton>
     </div>
