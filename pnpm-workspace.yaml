@@ -1,0 +1,6 @@
+# pnpm 10+ n'exécute les scripts de build des dépendances que s'ils sont
+# autorisés ici. Sans cette liste, toute installation échoue
+# (ERR_PNPM_IGNORED_BUILDS).
+allowBuilds:
+  msw: false
+  unrs-resolver: true
